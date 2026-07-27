@@ -37,7 +37,7 @@ def pkr_in_usd(pkr):
 
 pkr_in_usd(float(input("Enter amount in PKR: ")))
 
-# -------------->>Q4
+# -------------->>Q5
 print("\nQ5) Write a program to determine whether a given number is even or odd.")
 def even_odd(num):
     if num % 2 == 0:
